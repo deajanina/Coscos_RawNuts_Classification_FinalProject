@@ -1,0 +1,10 @@
+0 Almond
+1 Cashew
+2 Peanut
+3 Walnut
+4 Pistachio
+5 Hazelnut
+6 Macadamia
+7 Pecan
+8 Pili
+9 Pine
